@@ -1,0 +1,9 @@
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\bin\Debug\NetFrameworkCheckDemo.exe.config
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\bin\Debug\NetFrameworkCheckDemo.exe
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\bin\Debug\NetFrameworkCheckDemo.pdb
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.Form1.resources
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.Properties.Resources.resources
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.csproj.GenerateResource.cache
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.exe
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.pdb
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\NetFrameworkCheckDemo\obj\Debug\NetFrameworkCheckDemo.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameworkCheckDemo", "NetFrameworkCheckDemo\NetFrameworkCheckDemo.csproj", "{427D18C7-01DA-4D96-8340-95BC5A30A08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibDotNet45", "LibDotNet45\LibDotNet45.csproj", "{6B6D445A-E57E-4631-B3D2-5797593F8423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427D18C7-01DA-4D96-8340-95BC5A30A08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427D18C7-01DA-4D96-8340-95BC5A30A08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427D18C7-01DA-4D96-8340-95BC5A30A08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427D18C7-01DA-4D96-8340-95BC5A30A08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6D445A-E57E-4631-B3D2-5797593F8423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6D445A-E57E-4631-B3D2-5797593F8423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6D445A-E57E-4631-B3D2-5797593F8423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6D445A-E57E-4631-B3D2-5797593F8423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD1239A-9FF7-420E-9624-025FF9B7B154}
+	EndGlobalSection
+EndGlobal

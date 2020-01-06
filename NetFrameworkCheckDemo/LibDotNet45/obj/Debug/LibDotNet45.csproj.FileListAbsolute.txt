@@ -1,0 +1,5 @@
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\LibDotNet45\bin\Debug\LibDotNet45.dll
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\LibDotNet45\bin\Debug\LibDotNet45.pdb
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\LibDotNet45\obj\Debug\LibDotNet45.csprojAssemblyReference.cache
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\LibDotNet45\obj\Debug\LibDotNet45.dll
+D:\Business\DemoTEST\CSharp\NetFrameworkCheckDemo\LibDotNet45\obj\Debug\LibDotNet45.pdb
